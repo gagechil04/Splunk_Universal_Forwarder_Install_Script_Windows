@@ -2,6 +2,7 @@
 
 
 -Place this script in the same directory as the Splunk Universal Forwarder MSI installer.
+
 -Run as Administrator.
 
 #This script will install the Splunk Universal Forwarder Application, set the username as "SplunkAdmin", generate a random password, and configures the UF as deployment client. 
